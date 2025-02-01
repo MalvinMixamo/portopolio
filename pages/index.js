@@ -16,6 +16,7 @@ export default function Result(){
       <Kata></Kata>
       <Project></Project>
       <Contact></Contact>
+      
     </>
   )
 }
