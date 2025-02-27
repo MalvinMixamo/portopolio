@@ -20,7 +20,7 @@ export default function card(){
     return(
         <div className={styles._card}>
             <div className={styles.nama_card}>
-                <Image src="/profil.png" width={30} height={30} className={styles.img_card}></Image>
+                <Image src="/Profil.png" width={30} height={30} className={styles.img_card}></Image>
                 <h3>Miaww</h3>
             </div>
             <div className={styles.isi_testi}>
